@@ -23,4 +23,4 @@ Für mehr Informationen zu meiner Person oder meinen Projekten könnt ihr gerne 
 
 [<img src="https://img.shields.io/badge/pixelpatron-100000?style=for-the-badge&logo=X&logoColor=white&labelColor=000000&color=FF0000">](https://x.com/pixelpatron)
 
-[<img src="https://img.shields.io/badge/pixel_patron-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=000000&color=FF0000">](https://x.com/evarioo_x)
+[<img src="https://img.shields.io/badge/pixel_patron-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=000000&color=FF0000">](https://discord.com/channels/@me/1178035028249297058/)
