@@ -6,8 +6,7 @@ Ich bin leidenschaftlicher Webentwickler und habe mir über die Jahre ein Arsena
 Neugierig? Dann klick dich ruhig durch – versprochen, es gibt keine versteckten Jumpscares! 😜
 
 ## 🔭 Aktuell arbeite ich an folgenden Projekten:
-1. https://www.craftlegends.world
-2. https://www.evarioo.eu
+1. https://www.evarioo.eu
 
 ## 💡 Fun Facts
 
