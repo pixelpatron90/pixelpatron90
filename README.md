@@ -19,7 +19,9 @@ Das ist ungefähr so, als würde man einen Kuchen "Kuchen Enthält Kuchen" nenne
 
 ![pixelpatron90's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelpatron90&show_icons=true&theme=radical)
 
-## 🔗 Für mehr Informationen zu meiner Person oder meinen Projekten könnt ihr gerne meine Webseite besuchen:
+## 🔗 Links
+
+Für mehr Informationen zu meiner Person oder meinen Projekten könnt ihr gerne meine Webseite besuchen:
 
 - https://www.evarioo.eu
 
