@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.evarioo.eu" target="_blank"><img src="https://media.evarioo.eu/pixelpatron/logo.png" width="493" /></a></p>
+<p align="center"><a href="https://www.evarioo.eu" target="_blank"><img src="https://media.evarioo.eu/logos/dark.svg" width="493" /></a></p>
 
 ### Heyho, ich bin Alexander! 🎉
 34 Jahre jung, direkt aus dem wunderschönen Hessen – wo der Äppler fließt und der Handkäs duftet! 😆
