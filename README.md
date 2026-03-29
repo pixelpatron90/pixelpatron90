@@ -1,30 +1,62 @@
-<p align="center"><a href="https://www.pixelpatron.eu" target="_blank"><img src="https://pixelpatron.eu/assets/images/pp-logo.png" width="493" /></a></p>
+<p align="center">
+  <a href="https://www.pixelpatron.eu" target="_blank">
+    <img src="https://pixelpatron.eu/assets/images/pp-logo.png" width="493" />
+  </a>
+</p>
 
-### Heyho, ich bin Alexander! 🎉
-34 (+1) Jahre jung, direkt aus dem wunderschönen Hessen – wo der Äppler fließt und der Handkäs duftet! 😆
-Ich bin leidenschaftlicher Webentwickler und habe mir über die Jahre ein Arsenal an Wissen angeeignet – quasi ein wandelndes Stack Overflow mit Kaffee-Flatrate.
-Neugierig? Dann klick dich ruhig durch – versprochen, es gibt keine versteckten Jumpscares! 😜
+# 👋 Hey, I'm Alexander!
 
-## 🔭 Aktuell arbeite ich an folgenden Projekten:
-1. https://www.evarioocms.de
+34 (+1) years young, based in beautiful Hesse, Germany – where apple wine flows and Handkäse is a way of life. 😄  
+I'm a passionate web developer with years of experience and a solid stack of knowledge – basically a walking Stack Overflow with a coffee addiction.
 
-## 💡 Fun Facts
+Curious? Feel free to explore – no jump scares, promised. 😜
 
-PHP steht offiziell für "PHP: Hypertext Preprocessor" – also ein rekursives Akronym.
-Das bedeutet, dass die erste Abkürzung schon die ganze Abkürzung enthält! 🤯
-Das ist ungefähr so, als würde man einen Kuchen "Kuchen Enthält Kuchen" nennen – typisch für Entwicklerhumor. 😆
+---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
+
+- 💻 **Backend:** PHP, Node.js  
+- 🎨 **Frontend:** HTML, CSS, JavaScript  
+- ⚙️ **Frameworks & Tools:** Vue.js, Git  
+- 🗄️ **Databases:** MySQL  
+
+---
+
+## 🔭 Current Projects
+
+- 🌐 https://www.evarioocms.de  
+  → A custom CMS / system I'm actively developing and maintaining.
+
+---
+
+## 💡 Fun Fact
+
+PHP stands for **"PHP: Hypertext Preprocessor"** – which is a recursive acronym.  
+That means the abbreviation literally contains itself 🤯  
+Kind of like naming a cake: "Cake That Contains Cake". Typical developer humor. 😄
+
+---
+
+## 📊 GitHub Stats
 
 ![pixelpatron90's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelpatron90&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelpatron90&layout=compact&theme=radical)
+
+---
+
 ## 🔗 Links
 
-Für mehr Informationen zu meiner Person oder meinen Projekten könnt ihr gerne meine Webseite besuchen:
+For more information about me or my projects, feel free to visit my website:
 
 - https://www.evarioo.eu
 
-## 📫 Interesse an einem direktem Kontakt?
+---
+
+## 📫 Get in Touch
+
+Interested in working together or have an idea?  
+Feel free to reach out – I’m always open to exciting projects and collaborations!
 
 [<img src="https://img.shields.io/badge/pixelpatron-100000?style=for-the-badge&logo=X&logoColor=white&labelColor=000000&color=FF0000">](https://x.com/pixelpatron_eu)
 
