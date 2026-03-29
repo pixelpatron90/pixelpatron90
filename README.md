@@ -49,7 +49,8 @@ Kind of like naming a cake: "Cake That Contains Cake". Typical developer humor. 
 
 For more information about me or my projects, feel free to visit my website:
 
-- https://www.evarioo.eu
+- https://www.maralex.xyz
+- https://www.averio.xyz
 
 ---
 
@@ -57,6 +58,8 @@ For more information about me or my projects, feel free to visit my website:
 
 Interested in working together or have an idea?  
 Feel free to reach out – I’m always open to exciting projects and collaborations!
+
+Mail me: hello[aet]maralex.xyz OR alxndr[aet]maralex.xyz
 
 [<img src="https://img.shields.io/badge/pixelpatron-100000?style=for-the-badge&logo=X&logoColor=white&labelColor=000000&color=FF0000">](https://x.com/pixelpatron_eu)
 
