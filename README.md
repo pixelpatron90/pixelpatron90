@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.pixelpatron.eu" target="_blank">
-    <img src="https://pixelpatron.eu/assets/images/pp-logo.png" width="493" />
+    <img src="https://raw.githubusercontent.com/pixelpatron90/pixelpatron90/refs/heads/main/pp-transparent.png" width="493" />
   </a>
 </p>
 
