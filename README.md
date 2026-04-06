@@ -67,7 +67,7 @@ OR my docker Repoaitory
 Interested in working together or have an idea?  
 Feel free to reach out – I’m always open to exciting projects and collaborations!
 
-Mail me: hello[aet]maralex.xyz OR alexander[aet]maralex.xyz
+Mail me: hello[aet]maralex.xyz OR alexander.bergmann[aet]maralex.xyz
 
 [<img src="https://img.shields.io/badge/pixelpatron-100000?style=for-the-badge&logo=X&logoColor=white&labelColor=000000&color=FF0000">](https://x.com/pixelpatron_eu)
 
