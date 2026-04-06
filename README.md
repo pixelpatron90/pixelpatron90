@@ -55,7 +55,6 @@ Kind of like naming a cake: "Cake That Contains Cake". Typical developer humor. 
 For more information about me or my projects, feel free to visit my website:
 
 - https://www.maralex.xyz
-- https://www.averio.xyz
 
 OR my docker Repoaitory
 
