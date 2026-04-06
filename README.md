@@ -26,6 +26,11 @@ Curious? Feel free to explore – no jump scares, promised. 😜
 
 - 🌐 https://www.evarioocms.de  
   → A custom CMS / system I'm actively developing and maintaining.
+- 🌐 https://www.averio.xyz
+  → A Community discord bot with multiple commands and functions
+- 🌐 https://www.maralex.xyz
+  → This is my own website.
+
 
 ---
 
